@@ -1,4 +1,4 @@
-package main
+package adder
 
 // Add : retun the sum of 2 integers
 func Add(x, y int) int {
